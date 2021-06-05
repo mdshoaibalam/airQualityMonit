@@ -31,8 +31,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### library used
 [0] react.js : Project built on reactjs v17 with very basic features 
+
 [1] moment.js : its very nice library to handle date and time related data manipulation like last updatedBy field 
+
 [2] websocket : helps to connect the server to subscribe the stream data 
+
 [3] apexChart : open source and easy to use and also responsive in nature and in terms of performs it gives smooth animation and smooth visualization 
+
 
 

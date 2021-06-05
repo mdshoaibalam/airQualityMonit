@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/airQualityMonit/static/css/main.8e168f32.chunk.css",
+    "main.js": "/airQualityMonit/static/js/main.12ef3e03.chunk.js",
+    "main.js.map": "/airQualityMonit/static/js/main.12ef3e03.chunk.js.map",
+    "runtime-main.js": "/airQualityMonit/static/js/runtime-main.fd89dcd7.js",
+    "runtime-main.js.map": "/airQualityMonit/static/js/runtime-main.fd89dcd7.js.map",
+    "static/js/2.5e8442e8.chunk.js": "/airQualityMonit/static/js/2.5e8442e8.chunk.js",
+    "static/js/2.5e8442e8.chunk.js.map": "/airQualityMonit/static/js/2.5e8442e8.chunk.js.map",
+    "static/js/3.7c0e556f.chunk.js": "/airQualityMonit/static/js/3.7c0e556f.chunk.js",
+    "static/js/3.7c0e556f.chunk.js.map": "/airQualityMonit/static/js/3.7c0e556f.chunk.js.map",
+    "index.html": "/airQualityMonit/index.html",
+    "static/css/main.8e168f32.chunk.css.map": "/airQualityMonit/static/css/main.8e168f32.chunk.css.map",
+    "static/js/2.5e8442e8.chunk.js.LICENSE.txt": "/airQualityMonit/static/js/2.5e8442e8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/airQualityMonit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd89dcd7.js",
+    "static/js/2.5e8442e8.chunk.js",
+    "static/css/main.8e168f32.chunk.css",
+    "static/js/main.12ef3e03.chunk.js"
+  ]
+}
